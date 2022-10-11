@@ -18,7 +18,7 @@ Also, indicate both your Glyphs and macOS version.
 
 # ABOUT THE SCRIPTS
 
-**Components**
+## Components
 
 * **<< Previous Component** replaces the selected numbered component (say, 'dot_3' or 'tail5') with the previous one in the components list.
 
