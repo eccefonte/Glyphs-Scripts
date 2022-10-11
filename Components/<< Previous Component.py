@@ -18,5 +18,3 @@ for component in thisLayer.components:
 		lastNumber = str(lastNumber)
 		newName = cName[:-(len(str(cNum)))] + lastNumber
 		component.name = newName
-	else:
-		Message("Please select a numbered component (dot_3, tail5…) for the script to work.")
