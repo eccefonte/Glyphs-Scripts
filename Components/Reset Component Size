@@ -1,0 +1,22 @@
+#MenuTitle: Reset Component Size
+# -*- coding: utf-8 -*-
+__doc__="""
+Resets the selected component to 100% scale.
+"""
+
+thisFont = Glyphs.font # frontmost font
+selectedLayers = thisFont.selectedLayers # active layers of selected glyphs
+thisLayer = selectedLayers[0]
+
+for component in thisLayer.components:
+	if component.selected == True:
+		xposition = component.position.x
+		yposition = component.position.y
+		component.transform = ((
+			1.0, # x scale factor
+			0.0, # x skew factor
+			0.0, # y skew factor
+			1.0, # y scale factor
+			xposition, # x position
+			yposition  # y position
+			))
