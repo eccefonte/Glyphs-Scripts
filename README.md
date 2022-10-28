@@ -1,14 +1,14 @@
-# ABOUT
+## ABOUT
 
 These are Python scripts for the Glyphs font design app.
 
 
-# REQUIREMENTS
+## REQUIREMENTS
 
 The scripts should work on any recent version of Glyphs 3 or 2 running on macOS 10.9 or later.
 
 
-# TROUBLESHOOTING
+## TROUBLESHOOTING
 Please report any problem as a GitHub issue.
 
 Make sure Glyphs is up to date.
@@ -16,7 +16,7 @@ Make sure Glyphs is up to date.
 Also, indicate both your Glyphs and macOS version.
 
 
-# ABOUT THE SCRIPTS
+## ABOUT THE SCRIPTS
 
 ## Components
 
