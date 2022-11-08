@@ -22,6 +22,6 @@ Also, indicate both your Glyphs and macOS version.
 
 * **<ins><< Previous Component</ins>** replaces the selected numbered component (say, 'dot_3' or 'tail5') with the previous one ('dot_2', 'tail4') from the components list.
 
-* **<ins><< Next Component</ins>** replaces the selected numbered component (say, 'dot_3' or 'tail5') with the next one ('dot_4', 'tail6') from the components list.
+* **<ins>>> Next Component</ins>** replaces the selected numbered component (say, 'dot_3' or 'tail5') with the next one ('dot_4', 'tail6') from the components list.
 
 * **<ins>Reset Component Size</ins>** resets the selected component(s) to 100% scale.
